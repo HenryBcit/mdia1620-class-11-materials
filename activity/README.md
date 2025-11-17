@@ -67,7 +67,7 @@ Write a program that takes a student's score and performs the following steps:
 - Do it again but without anyone to start you off
 
 ### Task
-Write a program that takes multiple distances (in kilometers or miles) and performs the following steps:
+Write a program that takes multiple distances (in kilometers or meters) and performs the following steps:
 1.	Validate the input: Ensure that each distance entered is a valid number. If not, throw an error.
 2.	Calculate the total distance: Sum up the total distance run.
 3.	Format the result: Display a string that shows the total distance and the corresponding unit. If below 1000 use meters, if above, use kilometers.
